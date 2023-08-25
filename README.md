@@ -3,3 +3,5 @@ Complete guide to the EMBLEM Programming language. For more information, go to o
 
 Check out our business plan:
 https://docs.google.com/document/d/e/2PACX-1vRScsVQzm2yJqipbjJ4HCSxYG658jrCYDaXhAoTqGBnthnLqT-K4Vz18ePFlWmEPLv9f96k8lKIjuJK/pub
+
+If you ever want to follow us on Social Media, make sure to check us out through the following links: 
