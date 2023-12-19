@@ -1,10 +1,3 @@
-// https://github.com/tlaceby/guide-to-interpreters-series
-// -----------------------------------------------------------
-// ---------------          LEXER          -------------------
-// ---  Responsible for producing tokens from the source   ---
-// -----------------------------------------------------------
-
-// Represents tokens that our language understands in parsing.
 export enum TokenType {
 	// Literal Types
 	Number,
